@@ -15,3 +15,4 @@ async def say(ctx, *, text):
     await ctx.send(text)
 
 bot.run(token)
+#some commit
